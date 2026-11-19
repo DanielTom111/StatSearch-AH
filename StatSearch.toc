@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: StatSearch
+## Notes: AND/OR stat-tag search on top of the auction house filters - gear and the gear recipes craft.
+## Author: Dan
+## Version: 0.4.0
+## SavedVariables: StatSearchDB
+## OptionalDeps: Auctionator
+
+Core.lua
+Tags.lua
+Scanner.lua
+Filter.lua
+Equipped.lua
+UI.lua
